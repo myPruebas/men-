@@ -14,7 +14,7 @@ public class ControlSumatorio {
 	 * menú principal.
 	 */
 	private static final String[] OPCIONES_MENÚ_PRINCIPAL = { "Agregar valor", "Mostrar valores", "Mostrar suma",
-			"Restablecer" };
+			"Restablecer","SALIR" };
 
 	/**
 	 * Título de la aplicación. Se mostrará como encabezado del menú principal.
@@ -48,15 +48,15 @@ public class ControlSumatorio {
 			case 0: // Salir
 				menúPrincipal.mostrarMensaje("¡¡¡A-D-I-O-S!!");
 				break;
-//			case 1: // Opción 1: Entrada datos
-//				cargarSumando();
-//				break;
-//			case 2: // Opción 2: Mostrar sumandos
-//				mostrarSumandos();
-//				break;
-//			case 3: // Opción 3: Mostrar suma
-//				mostrarSuma();
-//				break;
+			case 1: // Opción 1: Entrada datos
+				cargarSumando();
+				break;
+			case 2: // Opción 2: Mostrar sumandos
+				mostrarSumandos();
+				break;
+			case 3: // Opción 3: Mostrar suma
+				mostrarSuma();
+				break;
 //			case 4: // Opción 4: Reset
 //				restablecer();
 //				break;
@@ -66,6 +66,27 @@ public class ControlSumatorio {
 				System.exit(1);
 			}
 		} while (entrada != 0);
+	}
+	
+	private void mostrarSuma() {
+		VistaSumaTotal sumandos = new VistaSumaTotal("",in);
+		
+		
+		sumandos.muestraSuma();
+	}
+	
+	
+	
+	private void mostrarSumandos() {
+		VistaMuestaSumandos sumandos = new VistaMuestaSumandos("Lista Sumandos",in);
+		
+		sumandos.muestanumeros();
+		
+		
+	}
+	private void cargarSumando() {
+		VistaNumeros numeros = new VistaNumeros( OPCIONES_MENÚ_PRINCIPAL[0],in);
+		numeros.recogenumeros();
 	}
 
 	private void ejecutarGenérico(int id) {
