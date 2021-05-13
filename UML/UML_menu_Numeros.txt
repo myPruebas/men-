@@ -1,0 +1,80 @@
+@startuml
+class ControlSumatorio <<(C,orange) control>>{
+- {static} OPCIONES_MENU_PRINCIPAL: String[*] {readOnly}
+- {static} TÍTULO_MENÚ_PRINCIPAL: String {readOnly}
+- in: Scanner
+- conjunto: ListaNúmeros
+- menúPrincipal: VistaMenúGeneral
++ ControlSumatorio(in: Scanner)
+- buclePrincipal(): void
+- mostrarSuma(): void
+- mostrarSumandos(): void
+- cargarSumandos(): void
+- ejecutarGenérico(id:int):void
++ {static} main(args: String[*]): void
+}
+
+class VistaGeneral <<(V,lightblue) vista>>{
+# título: String
+# in: Scanner
+# out: PrintStream
++ VistaGeneral(nombre: String,scEntrada: Scanner)
++ {static} rellenar(int: longitud, c : char):String
++ mostrarTítuloSimple():void
++ mostrarTítuloDoble ():void
++ mostrarInvitación(): void
++ pedirConfirmación(texto: String):boolean
++ mostrarMensaje(String):void
++ pausar():void
+}
+
+
+class VistaMenúGeneral <<(V,lightblue) vista>>{
+- opciones: String[*]
++ VistaMenúGeneral(titulo: String, opciones: String[*], in: Scanner)
++ elegirOpción():int
++ {static} getNúmRespuestas(): String
+}
+
+class VistaMuestraSumandos <<(V,lightblue) vista>>{
++ VistaMuestraSumandos(titulo: String, in: Scanner) 
++ muestanumeros(): void
+}
+
+class VistaNumeros <<(V,lightblue) vista>>{
++ VistaNumeros(titulo: String, in: Scanner)
++ recogenumeros(): void
+}
+
+class VistaSumaTotal <<(V,lightblue) vista>>{
++ VistaSumaTotal(titulo: String, in: Scanner)
++ muestraSuma(): void
+}
+
+class ListaNúmeros <<(M,orangered) modelo>>{
+- {static} PRECISIÓN: int {readonly}
+- {static} MAX: int {readonly}
+- {static} formato: NumberFormat {readonly}
+- lista: ArrayList <Double>
++ ListaNúmeros ()
++ add(valor:double):void
++ add(entrada: String): void
++ {static} transformarEntradaTexto(entrada:String):double
+- {static} comprobarRangoPermitido(valor:Double):void
++ getNúmSumandos():int
++ getSuma():double
++ toListaString(): ArrayList <String>
++ toString(): String
++ {static} main(args: String[*]): void
+}
+
+ControlSumatorio ..> VistaMenúGeneral
+ControlSumatorio ..> VistaMuestraSumandos
+ControlSumatorio ..> VistaNumeros
+ControlSumatorio ..> VistaSumaTotal
+ControlSumatorio -- ListaNúmeros 
+VistaMenúGeneral -|> VistaGeneral
+VistaMuestraSumandos -|> VistaGeneral
+VistaNumeros -|> VistaGeneral
+VistaSumaTotal -|> VistaGeneral
+@enduml

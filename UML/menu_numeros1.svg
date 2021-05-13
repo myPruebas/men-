@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="application/ecmascript"
+   contentStyleType="text/css"
+   height="520px"
+   preserveAspectRatio="none"
+   style="width:2003px;height:520px;"
+   version="1.1"
+   viewBox="0 0 2003 520"
+   width="2003px"
+   zoomAndPan="magnify"
+   id="svg650"
+   sodipodi:docname="menu_numeros1.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata654">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     id="namedview652"
+     showgrid="false"
+     inkscape:zoom="0.3105342"
+     inkscape:cx="1001.5"
+     inkscape:cy="131.18971"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg650" />
+  <defs
+     id="defs342">
+    <filter
+       height="300%"
+       id="f17ke6eaisb48p"
+       width="300%"
+       x="-1"
+       y="-1">
+      <feGaussianBlur
+         result="blurOut"
+         stdDeviation="2.0"
+         id="feGaussianBlur333" />
+      <feColorMatrix
+         in="blurOut"
+         result="blurOut2"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"
+         id="feColorMatrix335" />
+      <feOffset
+         dx="4.0"
+         dy="4.0"
+         in="blurOut2"
+         result="blurOut3"
+         id="feOffset337" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blurOut3"
+         mode="normal"
+         id="feBlend339" />
+    </filter>
+  </defs>
+  <g
+     id="g648">
+    <!--MD5=[3532b8784d886da1ca04017f00f46a9d]
+class ControlSumatorio-->
+    <rect
+       fill="#FEFECE"
+       filter="url(#f17ke6eaisb48p)"
+       height="207.5938"
+       id="ControlSumatorio"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="307"
+       x="744.5"
+       y="8" />
+    <ellipse
+       cx="841.75"
+       cy="26.9688"
+       fill="#FFA500"
+       rx="11"
+       ry="11"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="ellipse345" />
+    <path
+       d="M844.0938,22.6406 C843.1563,22.2031 842.5625,22.0625 841.6875,22.0625 C839.0625,22.0625 837.0625,24.1406 837.0625,26.8594 L837.0625,27.9844 C837.0625,30.5625 839.1719,32.4531 842.0625,32.4531 C843.2813,32.4531 844.4375,32.1563 845.1875,31.6094 C845.7656,31.2031 846.0938,30.75 846.0938,30.3594 C846.0938,29.9063 845.7031,29.5156 845.2344,29.5156 C845.0156,29.5156 844.8125,29.5938 844.625,29.7813 C844.1719,30.2656 844.1719,30.2656 843.9844,30.3594 C843.5625,30.625 842.875,30.75 842.1094,30.75 C840.0625,30.75 838.7656,29.6563 838.7656,27.9531 L838.7656,26.8594 C838.7656,25.0781 840.0156,23.7656 841.75,23.7656 C842.3281,23.7656 842.9375,23.9219 843.4063,24.1719 C843.8906,24.4531 844.0625,24.6719 844.1563,25.0781 C844.2188,25.4844 844.25,25.6094 844.3906,25.7344 C844.5313,25.875 844.7656,25.9844 844.9844,25.9844 C845.25,25.9844 845.5156,25.8438 845.6875,25.625 C845.7969,25.4688 845.8281,25.2813 845.8281,24.8594 L845.8281,23.4375 C845.8281,23 845.8125,22.875 845.7188,22.7188 C845.5625,22.4531 845.2813,22.3125 844.9844,22.3125 C844.6875,22.3125 844.4844,22.4063 844.2656,22.7188 L844.0938,22.6406 Z "
+       id="path347" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       font-style="italic"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="56"
+       x="886.25"
+       y="24.1387"
+       id="text349">«control»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="104"
+       x="862.25"
+       y="38.1074"
+       id="text351">ControlSumatorio</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="745.5"
+       x2="1050.5"
+       y1="45.9375"
+       y2="45.9375"
+       id="line353" />
+    <rect
+       fill="none"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="752.5"
+       y="53.9375"
+       id="rect355" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="281"
+       x="764.5"
+       y="60.1479"
+       id="text357">OPCIONES_MENU_PRINCIPAL: String[*] {readOnly}</text>
+    <rect
+       fill="none"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="752.5"
+       y="66.7422"
+       id="rect359" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="249"
+       x="764.5"
+       y="72.9526"
+       id="text361">TÍTULO_MENÚ_PRINCIPAL: String {readOnly}</text>
+    <rect
+       fill="none"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="752.5"
+       y="79.5469"
+       id="rect363" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="64"
+       x="764.5"
+       y="85.7573"
+       id="text365">in: Scanner</text>
+    <rect
+       fill="none"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="752.5"
+       y="92.3516"
+       id="rect367" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="132"
+       x="764.5"
+       y="98.562"
+       id="text369">conjunto: ListaNúmeros</text>
+    <rect
+       fill="none"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="752.5"
+       y="105.1563"
+       id="rect371" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="191"
+       x="764.5"
+       y="111.3667"
+       id="text373">menúPrincipal: VistaMenúGeneral</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="745.5"
+       x2="1050.5"
+       y1="117.9609"
+       y2="117.9609"
+       id="line375" />
+    <ellipse
+       cx="755.5"
+       cy="128.9609"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse377" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="170"
+       x="764.5"
+       y="132.1714"
+       id="text379">ControlSumatorio(in: Scanner)</text>
+    <rect
+       fill="#F24D5C"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="752.5"
+       y="138.7656"
+       id="rect381" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="116"
+       x="764.5"
+       y="144.9761"
+       id="text383">buclePrincipal(): void</text>
+    <rect
+       fill="#F24D5C"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="752.5"
+       y="151.5703"
+       id="rect385" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="115"
+       x="764.5"
+       y="157.7808"
+       id="text387">mostrarSuma(): void</text>
+    <rect
+       fill="#F24D5C"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="752.5"
+       y="164.375"
+       id="rect389" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="142"
+       x="764.5"
+       y="170.5854"
+       id="text391">mostrarSumandos(): void</text>
+    <rect
+       fill="#F24D5C"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="752.5"
+       y="177.1797"
+       id="rect393" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="134"
+       x="764.5"
+       y="183.3901"
+       id="text395">cargarSumandos(): void</text>
+    <rect
+       fill="#F24D5C"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="752.5"
+       y="189.9844"
+       id="rect397" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="161"
+       x="764.5"
+       y="196.1948"
+       id="text399">ejecutarGenérico(id:int):void</text>
+    <ellipse
+       cx="755.5"
+       cy="205.7891"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse401" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="145"
+       x="764.5"
+       y="208.9995"
+       id="text403">main(args: String[*]): void</text>
+    <!--MD5=[39756d4c3834c19687bbddbdbd544b5d]
+class VistaGeneral-->
+    <rect
+       fill="#FEFECE"
+       filter="url(#f17ke6eaisb48p)"
+       height="194.7891"
+       id="VistaGeneral"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="304"
+       x="1356"
+       y="295" />
+    <ellipse
+       cx="1465.75"
+       cy="313.9688"
+       fill="#ADD8E6"
+       rx="11"
+       ry="11"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="ellipse406" />
+    <path
+       d="M1465.9063,317.5156 L1463.4531,311.75 L1463.7813,311.75 C1464.1875,311.75 1464.3438,311.7188 1464.4844,311.6406 C1464.75,311.4844 1464.8906,311.2031 1464.8906,310.9063 C1464.8906,310.6406 1464.7656,310.375 1464.5625,310.2031 C1464.3906,310.0938 1464.2188,310.0625 1463.7813,310.0625 L1461.5156,310.0625 C1461.0781,310.0625 1460.9531,310.0781 1460.7969,310.1719 C1460.5469,310.3281 1460.3906,310.625 1460.3906,310.9063 C1460.3906,311.25 1460.625,311.5938 1460.9219,311.6875 C1461.0781,311.7344 1461.2031,311.75 1461.5469,311.75 L1464.9844,319.9688 L1466.6719,319.9688 L1470.1563,311.75 C1470.5156,311.75 1470.625,311.7344 1470.7813,311.6875 C1471.0625,311.5938 1471.3125,311.25 1471.3125,310.9063 C1471.3125,310.6406 1471.1719,310.375 1470.9531,310.2031 C1470.7969,310.0938 1470.625,310.0625 1470.1875,310.0625 L1467.9375,310.0625 C1467.5,310.0625 1467.375,310.0781 1467.2344,310.1719 C1466.9688,310.3281 1466.8125,310.625 1466.8125,310.9063 C1466.8125,311.1875 1466.9531,311.4375 1467.1563,311.6094 C1467.3438,311.7188 1467.4844,311.75 1467.9375,311.75 L1468.3438,311.75 L1465.9063,317.5156 Z "
+       id="path408" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       font-style="italic"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="42"
+       x="1503.25"
+       y="311.1387"
+       id="text410">«vista»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="76"
+       x="1486.25"
+       y="325.1074"
+       id="text412">VistaGeneral</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="1357"
+       x2="1659"
+       y1="332.9375"
+       y2="332.9375"
+       id="line414" />
+    <polygon
+       fill="none"
+       points="1367,338.9375,1371,342.9375,1367,346.9375,1363,342.9375"
+       style="stroke: #B38D22; stroke-width: 1.0;"
+       id="polygon416" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="68"
+       x="1376"
+       y="347.1479"
+       id="text418">título: String</text>
+    <polygon
+       fill="none"
+       points="1367,351.7422,1371,355.7422,1367,359.7422,1363,355.7422"
+       style="stroke: #B38D22; stroke-width: 1.0;"
+       id="polygon420" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="64"
+       x="1376"
+       y="359.9526"
+       id="text422">in: Scanner</text>
+    <polygon
+       fill="none"
+       points="1367,364.5469,1371,368.5469,1367,372.5469,1363,368.5469"
+       style="stroke: #B38D22; stroke-width: 1.0;"
+       id="polygon424" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="91"
+       x="1376"
+       y="372.7573"
+       id="text426">out: PrintStream</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="1357"
+       x2="1659"
+       y1="379.3516"
+       y2="379.3516"
+       id="line428" />
+    <ellipse
+       cx="1367"
+       cy="390.3516"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse430" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="278"
+       x="1376"
+       y="393.562"
+       id="text432">VistaGeneral(nombre: String,scEntrada: Scanner)</text>
+    <ellipse
+       cx="1367"
+       cy="403.1563"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse434" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="202"
+       x="1376"
+       y="406.3667"
+       id="text436">rellenar(int: longitud, c : char):String</text>
+    <ellipse
+       cx="1367"
+       cy="415.9609"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse438" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="149"
+       x="1376"
+       y="419.1714"
+       id="text440">mostrarTítuloSimple():void</text>
+    <ellipse
+       cx="1367"
+       cy="428.7656"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse442" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="147"
+       x="1376"
+       y="431.9761"
+       id="text444">mostrarTítuloDoble ():void</text>
+    <ellipse
+       cx="1367"
+       cy="441.5703"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse446" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="136"
+       x="1376"
+       y="444.7808"
+       id="text448">mostrarInvitación(): void</text>
+    <ellipse
+       cx="1367"
+       cy="454.375"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse450" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="230"
+       x="1376"
+       y="457.5854"
+       id="text452">pedirConfirmación(texto: String):boolean</text>
+    <ellipse
+       cx="1367"
+       cy="467.1797"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse454" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="159"
+       x="1376"
+       y="470.3901"
+       id="text456">mostrarMensaje(String):void</text>
+    <ellipse
+       cx="1367"
+       cy="479.9844"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse458" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="73"
+       x="1376"
+       y="483.1948"
+       id="text460">pausar():void</text>
+    <!--MD5=[0974f61ffd62bffc68e7d03e88b3fe89]
+class VistaMenúGeneral-->
+    <rect
+       fill="#FEFECE"
+       filter="url(#f17ke6eaisb48p)"
+       height="105.1563"
+       id="VistaMenúGeneral"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="390"
+       x="6"
+       y="340" />
+    <ellipse
+       cx="142.75"
+       cy="358.9688"
+       fill="#ADD8E6"
+       rx="11"
+       ry="11"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="ellipse463" />
+    <path
+       d="M142.9063,362.5156 L140.4531,356.75 L140.7813,356.75 C141.1875,356.75 141.3438,356.7188 141.4844,356.6406 C141.75,356.4844 141.8906,356.2031 141.8906,355.9063 C141.8906,355.6406 141.7656,355.375 141.5625,355.2031 C141.3906,355.0938 141.2188,355.0625 140.7813,355.0625 L138.5156,355.0625 C138.0781,355.0625 137.9531,355.0781 137.7969,355.1719 C137.5469,355.3281 137.3906,355.625 137.3906,355.9063 C137.3906,356.25 137.625,356.5938 137.9219,356.6875 C138.0781,356.7344 138.2031,356.75 138.5469,356.75 L141.9844,364.9688 L143.6719,364.9688 L147.1563,356.75 C147.5156,356.75 147.625,356.7344 147.7813,356.6875 C148.0625,356.5938 148.3125,356.25 148.3125,355.9063 C148.3125,355.6406 148.1719,355.375 147.9531,355.2031 C147.7969,355.0938 147.625,355.0625 147.1875,355.0625 L144.9375,355.0625 C144.5,355.0625 144.375,355.0781 144.2344,355.1719 C143.9688,355.3281 143.8125,355.625 143.8125,355.9063 C143.8125,356.1875 143.9531,356.4375 144.1563,356.6094 C144.3438,356.7188 144.4844,356.75 144.9375,356.75 L145.3438,356.75 L142.9063,362.5156 Z "
+       id="path465" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       font-style="italic"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="42"
+       x="196.25"
+       y="356.1387"
+       id="text467">«vista»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="108"
+       x="163.25"
+       y="370.1074"
+       id="text469">VistaMenúGeneral</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="7"
+       x2="395"
+       y1="377.9375"
+       y2="377.9375"
+       id="line471" />
+    <rect
+       fill="none"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="14"
+       y="385.9375"
+       id="rect473" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="105"
+       x="26"
+       y="392.1479"
+       id="text475">opciones: String[*]</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="7"
+       x2="395"
+       y1="398.7422"
+       y2="398.7422"
+       id="line477" />
+    <ellipse
+       cx="17"
+       cy="409.7422"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse479" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="364"
+       x="26"
+       y="412.9526"
+       id="text481">VistaMenúGeneral(titulo: String, opciones: String[*], in: Scanner)</text>
+    <ellipse
+       cx="17"
+       cy="422.5469"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse483" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="97"
+       x="26"
+       y="425.7573"
+       id="text485">elegirOpción():int</text>
+    <ellipse
+       cx="17"
+       cy="435.3516"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse487" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="159"
+       x="26"
+       y="438.562"
+       id="text489">getNúmRespuestas(): String</text>
+    <!--MD5=[21fce9b59c88dd55970b95a7395d6659]
+class VistaMuestraSumandos-->
+    <rect
+       fill="#FEFECE"
+       filter="url(#f17ke6eaisb48p)"
+       height="79.5469"
+       id="VistaMuestraSumandos"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="306"
+       x="431"
+       y="352.5" />
+    <ellipse
+       cx="509.75"
+       cy="371.4688"
+       fill="#ADD8E6"
+       rx="11"
+       ry="11"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="ellipse492" />
+    <path
+       d="M509.9063,375.0156 L507.4531,369.25 L507.7813,369.25 C508.1875,369.25 508.3438,369.2188 508.4844,369.1406 C508.75,368.9844 508.8906,368.7031 508.8906,368.4063 C508.8906,368.1406 508.7656,367.875 508.5625,367.7031 C508.3906,367.5938 508.2188,367.5625 507.7813,367.5625 L505.5156,367.5625 C505.0781,367.5625 504.9531,367.5781 504.7969,367.6719 C504.5469,367.8281 504.3906,368.125 504.3906,368.4063 C504.3906,368.75 504.625,369.0938 504.9219,369.1875 C505.0781,369.2344 505.2031,369.25 505.5469,369.25 L508.9844,377.4688 L510.6719,377.4688 L514.1563,369.25 C514.5156,369.25 514.625,369.2344 514.7813,369.1875 C515.0625,369.0938 515.3125,368.75 515.3125,368.4063 C515.3125,368.1406 515.1719,367.875 514.9531,367.7031 C514.7969,367.5938 514.625,367.5625 514.1875,367.5625 L511.9375,367.5625 C511.5,367.5625 511.375,367.5781 511.2344,367.6719 C510.9688,367.8281 510.8125,368.125 510.8125,368.4063 C510.8125,368.6875 510.9531,368.9375 511.1563,369.1094 C511.3438,369.2188 511.4844,369.25 511.9375,369.25 L512.3438,369.25 L509.9063,375.0156 Z "
+       id="path494" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       font-style="italic"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="42"
+       x="579.25"
+       y="368.6387"
+       id="text496">«vista»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="140"
+       x="530.25"
+       y="382.6074"
+       id="text498">VistaMuestraSumandos</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="432"
+       x2="736"
+       y1="390.4375"
+       y2="390.4375"
+       id="line500" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="432"
+       x2="736"
+       y1="398.4375"
+       y2="398.4375"
+       id="line502" />
+    <ellipse
+       cx="442"
+       cy="409.4375"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse504" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="280"
+       x="451"
+       y="412.6479"
+       id="text506">VistaMuestraSumandos(titulo: String, in: Scanner)</text>
+    <ellipse
+       cx="442"
+       cy="422.2422"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse508" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="132"
+       x="451"
+       y="425.4526"
+       id="text510">muestanumeros(): void</text>
+    <!--MD5=[d5ed5f93cfae177f64281db034c726f8]
+class VistaNumeros-->
+    <rect
+       fill="#FEFECE"
+       filter="url(#f17ke6eaisb48p)"
+       height="79.5469"
+       id="VistaNumeros"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="252"
+       x="772"
+       y="352.5" />
+    <ellipse
+       cx="852.25"
+       cy="371.4688"
+       fill="#ADD8E6"
+       rx="11"
+       ry="11"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="ellipse513" />
+    <path
+       d="M852.4063,375.0156 L849.9531,369.25 L850.2813,369.25 C850.6875,369.25 850.8438,369.2188 850.9844,369.1406 C851.25,368.9844 851.3906,368.7031 851.3906,368.4063 C851.3906,368.1406 851.2656,367.875 851.0625,367.7031 C850.8906,367.5938 850.7188,367.5625 850.2813,367.5625 L848.0156,367.5625 C847.5781,367.5625 847.4531,367.5781 847.2969,367.6719 C847.0469,367.8281 846.8906,368.125 846.8906,368.4063 C846.8906,368.75 847.125,369.0938 847.4219,369.1875 C847.5781,369.2344 847.7031,369.25 848.0469,369.25 L851.4844,377.4688 L853.1719,377.4688 L856.6563,369.25 C857.0156,369.25 857.125,369.2344 857.2813,369.1875 C857.5625,369.0938 857.8125,368.75 857.8125,368.4063 C857.8125,368.1406 857.6719,367.875 857.4531,367.7031 C857.2969,367.5938 857.125,367.5625 856.6875,367.5625 L854.4375,367.5625 C854,367.5625 853.875,367.5781 853.7344,367.6719 C853.4688,367.8281 853.3125,368.125 853.3125,368.4063 C853.3125,368.6875 853.4531,368.9375 853.6563,369.1094 C853.8438,369.2188 853.9844,369.25 854.4375,369.25 L854.8438,369.25 L852.4063,375.0156 Z "
+       id="path515" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       font-style="italic"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="42"
+       x="893.25"
+       y="368.6387"
+       id="text517">«vista»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="83"
+       x="872.75"
+       y="382.6074"
+       id="text519">VistaNumeros</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="773"
+       x2="1023"
+       y1="390.4375"
+       y2="390.4375"
+       id="line521" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="773"
+       x2="1023"
+       y1="398.4375"
+       y2="398.4375"
+       id="line523" />
+    <ellipse
+       cx="783"
+       cy="409.4375"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse525" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="226"
+       x="792"
+       y="412.6479"
+       id="text527">VistaNumeros(titulo: String, in: Scanner)</text>
+    <ellipse
+       cx="783"
+       cy="422.2422"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse529" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="129"
+       x="792"
+       y="425.4526"
+       id="text531">recogenumeros(): void</text>
+    <!--MD5=[11bf18fec790b2a7033abf0320aa2b31]
+class VistaSumaTotal-->
+    <rect
+       fill="#FEFECE"
+       filter="url(#f17ke6eaisb48p)"
+       height="79.5469"
+       id="VistaSumaTotal"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="262"
+       x="1059"
+       y="352.5" />
+    <ellipse
+       cx="1140.25"
+       cy="371.4688"
+       fill="#ADD8E6"
+       rx="11"
+       ry="11"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="ellipse534" />
+    <path
+       d="M1140.4063,375.0156 L1137.9531,369.25 L1138.2813,369.25 C1138.6875,369.25 1138.8438,369.2188 1138.9844,369.1406 C1139.25,368.9844 1139.3906,368.7031 1139.3906,368.4063 C1139.3906,368.1406 1139.2656,367.875 1139.0625,367.7031 C1138.8906,367.5938 1138.7188,367.5625 1138.2813,367.5625 L1136.0156,367.5625 C1135.5781,367.5625 1135.4531,367.5781 1135.2969,367.6719 C1135.0469,367.8281 1134.8906,368.125 1134.8906,368.4063 C1134.8906,368.75 1135.125,369.0938 1135.4219,369.1875 C1135.5781,369.2344 1135.7031,369.25 1136.0469,369.25 L1139.4844,377.4688 L1141.1719,377.4688 L1144.6563,369.25 C1145.0156,369.25 1145.125,369.2344 1145.2813,369.1875 C1145.5625,369.0938 1145.8125,368.75 1145.8125,368.4063 C1145.8125,368.1406 1145.6719,367.875 1145.4531,367.7031 C1145.2969,367.5938 1145.125,367.5625 1144.6875,367.5625 L1142.4375,367.5625 C1142,367.5625 1141.875,367.5781 1141.7344,367.6719 C1141.4688,367.8281 1141.3125,368.125 1141.3125,368.4063 C1141.3125,368.6875 1141.4531,368.9375 1141.6563,369.1094 C1141.8438,369.2188 1141.9844,369.25 1142.4375,369.25 L1142.8438,369.25 L1140.4063,375.0156 Z "
+       id="path536" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       font-style="italic"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="42"
+       x="1185.25"
+       y="368.6387"
+       id="text538">«vista»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="91"
+       x="1160.75"
+       y="382.6074"
+       id="text540">VistaSumaTotal</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="1060"
+       x2="1320"
+       y1="390.4375"
+       y2="390.4375"
+       id="line542" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="1060"
+       x2="1320"
+       y1="398.4375"
+       y2="398.4375"
+       id="line544" />
+    <ellipse
+       cx="1070"
+       cy="409.4375"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse546" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="236"
+       x="1079"
+       y="412.6479"
+       id="text548">VistaSumaTotal(titulo: String, in: Scanner)</text>
+    <ellipse
+       cx="1070"
+       cy="422.2422"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse550" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="119"
+       x="1079"
+       y="425.4526"
+       id="text552">muestraSuma(): void</text>
+    <!--MD5=[dab035cdffecdb1074ab8dadeb0d09a9]
+class ListaNúmeros-->
+    <rect
+       fill="#FEFECE"
+       filter="url(#f17ke6eaisb48p)"
+       height="233.2031"
+       id="ListaNúmeros"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="297"
+       x="1695.5"
+       y="276" />
+    <ellipse
+       cx="1799.25"
+       cy="294.9688"
+       fill="#FF4500"
+       rx="11"
+       ry="11"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="ellipse555" />
+    <path
+       d="M1796.1563,293.3594 L1798.1719,297.625 L1799.7188,297.625 L1801.6094,293.3594 L1801.6094,298.2656 L1801.0156,298.2656 C1800.5625,298.2656 1800.4531,298.2813 1800.2969,298.3906 C1800.0469,298.5469 1799.8906,298.8281 1799.8906,299.125 C1799.8906,299.375 1800.0156,299.6406 1800.25,299.7969 C1800.375,299.9219 1800.625,299.9688 1801.0156,299.9688 L1803.2188,299.9688 C1803.5625,299.9688 1803.8125,299.9219 1803.9375,299.8438 C1804.1875,299.6875 1804.3438,299.4063 1804.3438,299.125 C1804.3438,298.5781 1803.9688,298.2656 1803.2969,298.2656 L1803.2969,291.75 C1803.8594,291.7031 1804.1875,291.4063 1804.1875,290.9063 C1804.1875,290.6406 1804.0469,290.375 1803.8438,290.2031 C1803.6719,290.0938 1803.5313,290.0625 1803.0625,290.0625 L1801.2031,290.0625 L1798.9063,295.1094 L1796.5625,290.0625 L1794.7031,290.0625 C1794.6875,290.0469 1794.6719,290.0469 1794.6406,290.0469 C1794.4375,290.0469 1794.0781,290.1094 1793.9844,290.1563 C1793.7344,290.3281 1793.5781,290.625 1793.5781,290.8906 C1793.5781,291.4063 1793.9063,291.7031 1794.4688,291.75 L1794.4688,298.2656 C1793.7969,298.2656 1793.4219,298.5781 1793.4219,299.125 C1793.4219,299.3906 1793.5625,299.6406 1793.7813,299.7969 C1793.9375,299.9219 1794.1563,299.9688 1794.5625,299.9688 L1796.7656,299.9688 C1797.0938,299.9688 1797.3594,299.9219 1797.4688,299.8438 C1797.7344,299.6875 1797.875,299.4063 1797.875,299.125 C1797.875,298.8438 1797.7656,298.5938 1797.5469,298.4219 C1797.3594,298.2969 1797.2188,298.2656 1796.7656,298.2656 L1796.1563,298.2656 L1796.1563,293.3594 Z "
+       id="path557" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       font-style="italic"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="58"
+       x="1831.25"
+       y="292.1387"
+       id="text559">«modelo»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="81"
+       x="1819.75"
+       y="306.1074"
+       id="text561">ListaNúmeros</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="1696.5"
+       x2="1991.5"
+       y1="313.9375"
+       y2="313.9375"
+       id="line563" />
+    <rect
+       fill="none"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="1703.5"
+       y="321.9375"
+       id="rect565" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="148"
+       x="1715.5"
+       y="328.1479"
+       id="text567">PRECISIÓN: int {readonly}</text>
+    <rect
+       fill="none"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="1703.5"
+       y="334.7422"
+       id="rect569" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="114"
+       x="1715.5"
+       y="340.9526"
+       id="text571">MAX: int {readonly}</text>
+    <rect
+       fill="none"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="1703.5"
+       y="347.5469"
+       id="rect573" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="203"
+       x="1715.5"
+       y="353.7573"
+       id="text575">formato: NumberFormat {readonly}</text>
+    <rect
+       fill="none"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="1703.5"
+       y="360.3516"
+       id="rect577" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="142"
+       x="1715.5"
+       y="366.562"
+       id="text579">lista: ArrayList &lt;Double&gt;</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.5;"
+       x1="1696.5"
+       x2="1991.5"
+       y1="373.1563"
+       y2="373.1563"
+       id="line581" />
+    <ellipse
+       cx="1706.5"
+       cy="384.1563"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse583" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="89"
+       x="1715.5"
+       y="387.3667"
+       id="text585">ListaNúmeros ()</text>
+    <ellipse
+       cx="1706.5"
+       cy="396.9609"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse587" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="126"
+       x="1715.5"
+       y="400.1714"
+       id="text589">add(valor:double):void</text>
+    <ellipse
+       cx="1706.5"
+       cy="409.7656"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse591" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="144"
+       x="1715.5"
+       y="412.9761"
+       id="text593">add(entrada: String): void</text>
+    <ellipse
+       cx="1706.5"
+       cy="422.5703"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse595" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="271"
+       x="1715.5"
+       y="425.7808"
+       id="text597">transformarEntradaTexto(entrada:String):double</text>
+    <rect
+       fill="#F24D5C"
+       height="6"
+       style="stroke: #C82930; stroke-width: 1.0;"
+       width="6"
+       x="1703.5"
+       y="432.375"
+       id="rect599" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="255"
+       x="1715.5"
+       y="438.5854"
+       id="text601">comprobarRangoPermitido(valor:Double):void</text>
+    <ellipse
+       cx="1706.5"
+       cy="448.1797"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse603" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="130"
+       x="1715.5"
+       y="451.3901"
+       id="text605">getNúmSumandos():int</text>
+    <ellipse
+       cx="1706.5"
+       cy="460.9844"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse607" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="102"
+       x="1715.5"
+       y="464.1948"
+       id="text609">getSuma():double</text>
+    <ellipse
+       cx="1706.5"
+       cy="473.7891"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse611" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="189"
+       x="1715.5"
+       y="476.9995"
+       id="text613">toListaString(): ArrayList &lt;String&gt;</text>
+    <ellipse
+       cx="1706.5"
+       cy="486.5938"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse615" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="92"
+       x="1715.5"
+       y="489.8042"
+       id="text617">toString(): String</text>
+    <ellipse
+       cx="1706.5"
+       cy="499.3984"
+       fill="#84BE84"
+       rx="3"
+       ry="3"
+       style="stroke: #038048; stroke-width: 1.0;"
+       id="ellipse619" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       lengthAdjust="spacingAndGlyphs"
+       text-decoration="underline"
+       textLength="145"
+       x="1715.5"
+       y="502.6089"
+       id="text621">main(args: String[*]): void</text>
+    <!--MD5=[1c634a3603daae04e8008d156504ce96]
+link ControlSumatorio to VistaMenúGeneral-->
+    <path
+       d="M744.42,157.08 C647.72,186.67 521.18,228.78 413,276 C372.21,293.8 328.79,316.71 291.93,337.42 "
+       fill="none"
+       id="ControlSumatorio-&gt;VistaMenúGeneral"
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+    <polygon
+       fill="#A80036"
+       points="287.47,339.93,297.2729,338.9795,291.8217,337.4678,293.3334,332.0167,287.47,339.93"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon624" />
+    <!--MD5=[e64685ec80e474f81b2e92cf0b16acae]
+link ControlSumatorio to VistaMuestraSumandos-->
+    <path
+       d="M781.52,216.31 C729.79,262.2 671.74,313.68 632.04,348.89 "
+       fill="none"
+       id="ControlSumatorio-&gt;VistaMuestraSumandos"
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+    <polygon
+       fill="#A80036"
+       points="628.26,352.24,637.6498,349.2682,632.0033,348.9253,632.3462,343.2788,628.26,352.24"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon627" />
+    <!--MD5=[ff6e5f78adae8cb1046cfa0b290bc2a3]
+link ControlSumatorio to VistaNumeros-->
+    <path
+       d="M898,216.31 C898,261.46 898,312.02 898,347.17 "
+       fill="none"
+       id="ControlSumatorio-&gt;VistaNumeros"
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+    <polygon
+       fill="#A80036"
+       points="898,352.24,902,343.24,898,347.24,894,343.24,898,352.24"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon630" />
+    <!--MD5=[5709ee6e46d8d27a4d372cbee2c6c8a4]
+link ControlSumatorio to VistaSumaTotal-->
+    <path
+       d="M1006.32,216.31 C1054.23,262.01 1107.97,313.26 1144.88,348.46 "
+       fill="none"
+       id="ControlSumatorio-&gt;VistaSumaTotal"
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+    <polygon
+       fill="#A80036"
+       points="1148.84,352.24,1145.0823,343.1362,1145.2197,348.7914,1139.5645,348.9287,1148.84,352.24"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon633" />
+    <!--MD5=[3085fc561b9b6bd2aaa8d42534f5fbb3]
+link ControlSumatorio to ListaNúmeros-->
+    <path
+       d="M1051.53,126.74 C1212.91,145.33 1471.55,187.02 1678,276 C1683.8,278.5 1689.61,281.22 1695.39,284.12 "
+       fill="none"
+       id="ControlSumatorio-ListaNúmeros"
+       style="stroke: #A80036; stroke-width: 1.0;" />
+    <!--MD5=[62c5faceda9185aad643ab3df5ca0c5c]
+link VistaMenúGeneral to VistaGeneral-->
+    <path
+       d="M261.94,339.84 C305.64,305.72 367.66,264.35 430.5,246 C525.53,218.25 1227.94,213.65 1321.5,246 C1346.15,254.52 1370.02,267.8 1391.99,282.96 "
+       fill="none"
+       id="VistaMenúGeneral-&gt;VistaGeneral"
+       style="stroke: #A80036; stroke-width: 1.0;" />
+    <polygon
+       fill="none"
+       points="1396.33,277.45,1408.4,294.86,1388.1,288.78,1396.33,277.45"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon637" />
+    <!--MD5=[b15689fa4d6cf7f4dc7fbeff1ef681d4]
+link VistaMuestraSumandos to VistaGeneral-->
+    <path
+       d="M619.92,352.16 C654.63,316.47 710.76,266.91 771.5,246 C887.06,206.21 1205.99,206.06 1321.5,246 C1346.15,254.52 1370.02,267.8 1391.99,282.96 "
+       fill="none"
+       id="VistaMuestraSumandos-&gt;VistaGeneral"
+       style="stroke: #A80036; stroke-width: 1.0;" />
+    <polygon
+       fill="none"
+       points="1396.33,277.45,1408.4,294.86,1388.1,288.78,1396.33,277.45"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon640" />
+    <!--MD5=[7ed390e30f42a400cbaa437e2d17c345]
+link VistaNumeros to VistaGeneral-->
+    <path
+       d="M927.74,352.29 C956.79,316.7 1004.58,267.2 1059.5,246 C1113.82,225.03 1266.47,226.97 1321.5,246 C1346.15,254.52 1370.02,267.8 1391.99,282.96 "
+       fill="none"
+       id="VistaNumeros-&gt;VistaGeneral"
+       style="stroke: #A80036; stroke-width: 1.0;" />
+    <polygon
+       fill="none"
+       points="1396.33,277.45,1408.4,294.86,1388.1,288.78,1396.33,277.45"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon643" />
+    <!--MD5=[34d0f5aabc06735a1a1a235d3b9bfc69]
+link VistaSumaTotal to VistaGeneral-->
+    <path
+       d="M1321.05,392.5 C1325.93,392.5 1330.81,392.5 1335.68,392.5 "
+       fill="none"
+       id="VistaSumaTotal-&gt;VistaGeneral"
+       style="stroke: #A80036; stroke-width: 1.0;" />
+    <polygon
+       fill="none"
+       points="1335.74,385.5,1355.74,392.5,1335.74,399.5,1335.74,385.5"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon646" />
+    <!--MD5=[fdc778af60dafc49884ec4928ff77065]
+@startuml
+class ControlSumatorio <<(C,orange) control>>{
+- {static} OPCIONES_MENU_PRINCIPAL: String[*] {readOnly}
+- {static} TÍTULO_MENÚ_PRINCIPAL: String {readOnly}
+- in: Scanner
+- conjunto: ListaNúmeros
+- menúPrincipal: VistaMenúGeneral
++ ControlSumatorio(in: Scanner)
+- buclePrincipal(): void
+- mostrarSuma(): void
+- mostrarSumandos(): void
+- cargarSumandos(): void
+- ejecutarGenérico(id:int):void
++ {static} main(args: String[*]): void
+}
+
+class VistaGeneral <<(V,lightblue) vista>>{
+# título: String
+# in: Scanner
+# out: PrintStream
++ VistaGeneral(nombre: String,scEntrada: Scanner)
++ {static} rellenar(int: longitud, c : char):String
++ mostrarTítuloSimple():void
++ mostrarTítuloDoble ():void
++ mostrarInvitación(): void
++ pedirConfirmación(texto: String):boolean
++ mostrarMensaje(String):void
++ pausar():void
+}
+
+
+class VistaMenúGeneral <<(V,lightblue) vista>>{
+- opciones: String[*]
++ VistaMenúGeneral(titulo: String, opciones: String[*], in: Scanner)
++ elegirOpción():int
++ {static} getNúmRespuestas(): String
+}
+
+class VistaMuestraSumandos <<(V,lightblue) vista>>{
++ VistaMuestraSumandos(titulo: String, in: Scanner) 
++ muestanumeros(): void
+}
+
+class VistaNumeros <<(V,lightblue) vista>>{
++ VistaNumeros(titulo: String, in: Scanner)
++ recogenumeros(): void
+}
+
+class VistaSumaTotal <<(V,lightblue) vista>>{
++ VistaSumaTotal(titulo: String, in: Scanner)
++ muestraSuma(): void
+}
+
+class ListaNúmeros <<(M,orangered) modelo>>{
+- {static} PRECISIÓN: int {readonly}
+- {static} MAX: int {readonly}
+- {static} formato: NumberFormat {readonly}
+- lista: ArrayList <Double>
++ ListaNúmeros ()
++ add(valor:double):void
++ add(entrada: String): void
++ {static} transformarEntradaTexto(entrada:String):double
+- {static} comprobarRangoPermitido(valor:Double):void
++ getNúmSumandos():int
++ getSuma():double
++ toListaString(): ArrayList <String>
++ toString(): String
++ {static} main(args: String[*]): void
+}
+
+ControlSumatorio ..> VistaMenúGeneral
+ControlSumatorio ..> VistaMuestraSumandos
+ControlSumatorio ..> VistaNumeros
+ControlSumatorio ..> VistaSumaTotal
+ControlSumatorio - - ListaNúmeros 
+VistaMenúGeneral -|> VistaGeneral
+VistaMuestraSumandos -|> VistaGeneral
+VistaNumeros -|> VistaGeneral
+VistaSumaTotal -|> VistaGeneral
+@enduml
+
+PlantUML version 1.2020.11(Sat May 30 10:13:43 UTC 2020)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+  </g>
+</svg>
